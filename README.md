@@ -1,4 +1,4 @@
-# Projeto-IP2
+# Projeto-S-Mart
 
 Ideias de projeto podem vir de:
 * 
