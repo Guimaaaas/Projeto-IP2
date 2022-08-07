@@ -6,7 +6,7 @@ Ideias de projeto podem vir de:
 *
 
 ## Integrantes do grupo
-* Daniel Silva De Lima
+* Daniel Silva De Lima - Daniel_lma@hotmail.com
 * Artur Dantas Guimarães - arturguimaraes82@gmail.com
 * James Anderson do Nascimento
 * Igor de Albuquerque Sobreira
