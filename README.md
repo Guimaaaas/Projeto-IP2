@@ -10,7 +10,7 @@ Ideias de projeto podem vir de:
 * Artur Dantas Guimarães - arturguimaraes82@gmail.com
 * James Anderson do Nascimento
 * Igor de Albuquerque Sobreira
-*
+* Martha Lacerda Emidio da Silva - martinha.lacerda@gmail.com
 
 ## Descrição geral do projeto
 
