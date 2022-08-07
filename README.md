@@ -9,7 +9,7 @@ Ideias de projeto podem vir de:
 * Daniel Silva De Lima - Daniel_lma@hotmail.com
 * Artur Dantas Guimarães - arturguimaraes82@gmail.com
 * James Anderson do Nascimento
-* Igor de Albuquerque Sobreira
+* Igor de Albuquerque Sobreira - igorsbreira@gmail.com
 * Martha Lacerda Emidio da Silva - martinha.lacerda@gmail.com
 
 ## Descrição geral do projeto
