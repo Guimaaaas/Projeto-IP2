@@ -1,7 +1,7 @@
 # Projeto-IP2
 
 Ideias de projeto podem vir de:
-*
+* 
 *
 *
 
@@ -20,10 +20,10 @@ O programa será usado por super mercados, podendo ser usado por um super mercad
 
 * REQ1 O sistema irá controlar o acesso através de login e senha.
 
-* REQ2 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de funcionários. Este gerenciamento é atribuído aos perfis do gerente.
+* REQ2 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de funcionários. Este gerenciamento é atribuído ao perfil do gerente.
      
 * REQ3 O sistema deverá cadastrar e monitorar os funcionários em relação ao turno em que irão trabalhar(Monitorar o horário de ponto), o seus salário e o dia de pagamento, e a data de começo e fim do seu contrato. 
- 
-* REQ4 Também por meio de um método CRUD será feito o cadastro, monitoramento e/ou remoção dos produtos, podendo ter funções como calcular a margem para se aproximar e sugerir o preço,  do produto, baseado no seu preço de compra do fornecedor, sua frequência de saída e a prioridade/necessidade do produto(Por exemplo: se sempre vem clientes para comprar aquele produto essencial, como: arroz, açúcar e etc, o seu preço poderá ser abaixado os deixando com um lucro um pouco menor, com a vantagem de atrair os cliente a comprar mais produtos no super mercado enquanto estão lá). 
+
+* REQ4 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de produtos. Este gerenciamento é atribuído ao perfil do gerente.
  
 * REQ5 O sistema também incluirá um processo para clientes abrirem contas, podendo calcular as margens do que o cliente geralmente compra e dar descontos e bônus baseando-se nelas, além do cliente poder abrir uma conta para pagar no fim do mês os produtos comprados.
