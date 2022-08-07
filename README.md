@@ -1,4 +1,4 @@
-# Projeto-S-Mart
+# Projeto - S-Mart
 
 Ideias de projeto podem vir de:
 * 
