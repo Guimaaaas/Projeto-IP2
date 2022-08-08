@@ -8,7 +8,7 @@ Ideias de projeto podem vir de:
 ## Integrantes do grupo
 * Daniel Silva De Lima - Daniel_lma@hotmail.com
 * Artur Dantas Guimarães - arturguimaraes82@gmail.com
-* James Anderson do Nascimento
+* James Anderson do Nascimento - james.nascimento@ufrpe.br
 * Igor de Albuquerque Sobreira - igorsbreira@gmail.com
 * Martha Lacerda Emidio da Silva - martinha.lacerda@gmail.com
 
