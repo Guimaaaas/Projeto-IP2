@@ -5,4 +5,6 @@ module com.example.smart {
 
     opens com.example.smart to javafx.fxml;
     exports com.example.smart;
+    exports com.example.smart.apresentacao;
+    opens com.example.smart.apresentacao to javafx.fxml;
 }
