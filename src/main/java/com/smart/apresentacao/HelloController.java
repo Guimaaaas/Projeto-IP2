@@ -1,4 +1,4 @@
-package com.example.smart.apresentacao;
+package com.smart.apresentacao;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

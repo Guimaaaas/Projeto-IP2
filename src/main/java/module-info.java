@@ -3,8 +3,8 @@ module com.example.smart {
     requires javafx.fxml;
 
 
-    opens com.example.smart to javafx.fxml;
-    exports com.example.smart;
-    exports com.example.smart.apresentacao;
-    opens com.example.smart.apresentacao to javafx.fxml;
+    opens com.smart to javafx.fxml;
+    exports com.smart;
+    exports com.smart.apresentacao;
+    opens com.smart.apresentacao to javafx.fxml;
 }

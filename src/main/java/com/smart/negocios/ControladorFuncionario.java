@@ -1,4 +1,4 @@
-package com.example.smart.negocios;
+package com.smart.negocios;
 
 public class ControladorFuncionario {
 }

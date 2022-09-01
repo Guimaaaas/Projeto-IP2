@@ -1,4 +1,4 @@
-package com.example.smart.negocios.beans;
+package com.smart.negocios.beans;
 
 import java.time.LocalDate;
 
