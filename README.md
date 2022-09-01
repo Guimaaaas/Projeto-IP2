@@ -21,9 +21,13 @@ O programa será usado por super mercados, podendo ser usado por um super mercad
 * REQ1 O sistema irá controlar o acesso através de login e senha.
 
 * REQ2 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de funcionários. Este gerenciamento é atribuído ao perfil do gerente.
-     
-* REQ3 O sistema deverá cadastrar e monitorar os funcionários em relação ao turno em que irão trabalhar(Monitorar o horário de ponto), o seus salário e o dia de pagamento, e a data de começo e fim do seu contrato. 
 
-* REQ4 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de produtos. Este gerenciamento é atribuído ao perfil do gerente.
+* REQ3 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de clientes. Este gerenciamento é atribuído ao perfil do gerente.
+     
+* REQ4 O sistema deverá cadastrar e monitorar os funcionários em relação ao turno em que irão trabalhar(Monitorar o horário de ponto), o seus salário e o dia de pagamento, e a data de começo e fim do seu contrato. 
+
+* REQ5 O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) de produtos. Este gerenciamento é atribuído ao perfil do gerente.
  
-* REQ5 O sistema também incluirá um processo para clientes abrirem contas, podendo calcular as margens do que o cliente geralmente compra e dar descontos e bônus baseando-se nelas, além do cliente poder abrir uma conta para pagar no fim do mês os produtos comprados.
+* REQ6 O sistema também incluirá um processo para clientes abrirem contas, podendo acumular pontos e trocar por descontos em futuras compras.
+
+* REQ7 O sistema deve permitir a venda de produtos previamente cadastrados e salvá-los em um histórico de vendas.
