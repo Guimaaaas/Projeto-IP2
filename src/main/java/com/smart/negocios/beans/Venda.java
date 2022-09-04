@@ -4,9 +4,11 @@ import java.util.ArrayList;
 
 public class Venda {
     private ArrayList<Produto> produtos;
+    private ContaCliente cliente;
 
-    public Venda() {
+    public Venda(ContaCliente cliente) {
         this.produtos = new ArrayList<>();
+        this.cliente = cliente;
     }
 
     public double calcularTotal(){
