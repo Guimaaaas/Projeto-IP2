@@ -18,4 +18,10 @@ public class Venda {
         }
         return total;
     }
+
+    public void adicionarProdutos(Produto produto, int qtd){
+        for(int i = 0; i < qtd; i++){
+            produtos.add(produto);
+        }
+    }
 }
